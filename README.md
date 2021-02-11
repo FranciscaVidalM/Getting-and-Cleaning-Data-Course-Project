@@ -1,6 +1,8 @@
 # Getting-and-Cleaning-Data-Course-Project
 Francisca Vidal
+
 Peer graded assignment: Getting and cleaning data 
+
 File: Human Activity Recognition Using Smartphones Data Set
 
 ## Purpose of the project: 

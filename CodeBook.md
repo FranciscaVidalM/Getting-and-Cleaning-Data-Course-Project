@@ -14,12 +14,19 @@
 4. Appropriately labeled the data set with descriptive variable names
 5. From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject
 
-## Variables
+## Data description
 1. SubjetcNum: the id of the subject
 2. Activity: Name of the activity performed by the subjetctNum when the mesurements where done
 3. Measurements: mean and standard deviation calculated from the sets of data 
 Eg. 
+tBodyAcc-mean-X
+tBodyAcc-mean-Y
+tBodyAcc-mean-Z
+tBodyAcc-std-X
+tBodyAcc-std-Y
+tBodyAcc-std-Z
+tGravityAcc-mean-X
+tGravityAcc-mean-Y
+tGravityAcc-mean-Z
 
-
-## Data description
 
